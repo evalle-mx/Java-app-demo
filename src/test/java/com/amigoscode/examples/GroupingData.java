@@ -5,6 +5,7 @@ import com.amigoscode.beans.Car;
 import com.amigoscode.mockdata.MockData;
 import org.junit.jupiter.api.Test;
 
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
@@ -27,7 +28,7 @@ public class GroupingData {
 
     @Test
     public void groupingAndCounting() throws Exception {
-        List<String> names = List.of(
+        List<String> names = Arrays.asList(//List.of(
                 "John",
                 "John",
                 "Mariam",

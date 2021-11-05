@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nombre": "Dixie",
+    "apellidos": "O'Finan",
+    "email": "dofinan0@huffingtonpost.com",
+    "genero": "Female",
+    "edad": 91
+  },
+  {
+    "id": 2,
+    "nombre": "Harmon",
+    "apellidos": "Marling",
+    "email": "hmarling1@moonfruit.com",
+    "genero": "Male",
+    "edad": 38
+  },
+  {
+    "id": 3,
+    "nombre": "Dallas",
+    "apellidos": "Beynon",
+    "email": "dbeynon2@rambler.ru",
+    "genero": "Male",
+    "edad": 61
+  },
+  {
+    "id": 4,
+    "nombre": "Carlyle",
+    "apellidos": "Lachaize",
+    "email": "clachaize3@youtu.be",
+    "genero": "Male",
+    "edad": 3
+  },
+  {
+    "id": 5,
+    "nombre": "Eula",
+    "apellidos": "Pimm",
+    "email": "epimm4@google.com.hk",
+    "genero": "Female",
+    "edad": 54
+  },
+  {
+    "id": 6,
+    "nombre": "Andrus",
+    "apellidos": "Endricci",
+    "email": "aendricci5@google.ru",
+    "genero": "Male",
+    "edad": 19
+  },
+  {
+    "id": 7,
+    "nombre": "Charley",
+    "apellidos": "Molyneux",
+    "email": "cmolyneux6@un.org",
+    "genero": "Male",
+    "edad": 60
+  },
+  {
+    "id": 8,
+    "nombre": "Vidovic",
+    "apellidos": "Wasling",
+    "email": "vwasling7@oaic.gov.au",
+    "genero": "Male",
+    "edad": 38
+  },
+  {
+    "id": 9,
+    "nombre": "Pavia",
+    "apellidos": "De la Harpe",
+    "email": "pdelaharpe8@yale.edu",
+    "genero": "Female",
+    "edad": 11
+  },
+  {
+    "id": 10,
+    "nombre": "Jeramie",
+    "apellidos": "Borrell",
+    "email": "jborrell9@craigslist.org",
+    "genero": "Male",
+    "edad": 5
+  }
+]
