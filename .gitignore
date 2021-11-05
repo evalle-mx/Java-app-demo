@@ -1,0 +1,12 @@
+### ignoring the following files and folders ###
+/target/
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
