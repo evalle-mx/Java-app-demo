@@ -8,3 +8,9 @@ $ java -cp target/java-demo-app-1.0-SNAPSHOT.jar netto.app.App
 $ git init
 $ echo "### ignoring the following files and folders ###" > .gitignore | gedit .gitignore
 
+//Actualizar el target a Java 1.8
+//Agregada carpeta de pruebas Stream (programacion Funcional)
+$ java -cp target/java-demo-app-1.0-SNAPSHOT.jar netto.app.App
+$ java -cp target/java-demo-app-1.0-SNAPSHOT.jar netto.app.progfuncional.foreach.DemoForEach
+
+
