@@ -1,5 +1,5 @@
 package netto.app.progfuncional;
-
+/* https://www.arquitecturajava.com/programacion-funcional-java-8-streams/ */
 import java.util.ArrayList;
 
 public class CalculaGastos {

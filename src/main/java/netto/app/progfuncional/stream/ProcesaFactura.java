@@ -1,5 +1,5 @@
 package netto.app.progfuncional.stream;
-
+/* https://www.arquitecturajava.com/java-stream/ */
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

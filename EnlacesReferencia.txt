@@ -1,0 +1,22 @@
+https://javadesdecero.es/avanzado/genericos-ejemplos-java/
+https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/ 
+https://www.geeksforgeeks.org/stream-in-java
+https://www.arquitecturajava.com/java-stream/
+https://www.arquitecturajava.com/java-stream-foreach-y-colecciones/
+https://www.arquitecturajava.com/utilizando-java-8-predicate/
+https://www.arquitecturajava.com/java-predicate-interface-y-sus-metodos/
+https://www.arquitecturajava.com/java-8-lambda-expressions/
+https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/ 
+https://www.arquitecturajava.com/java-stream-collectors-y-su-uso/
+https://www.arquitecturajava.com/java-stream-filter-y-predicates/
+https://www.arquitecturajava.com/java-stream-reduce-eliminando-bucles/
+https://mkyong.com/java8/java-8-stream-reduce-examples/
+https://www.arquitecturajava.com/programacion-funcional-java-8-streams/
+
+https://www.arquitecturajava.com/stringbuffer-vs-stringbuilder/
+https://www.arquitecturajava.com/java-stream-foreach-y-colecciones/
+https://www.arquitecturajava.com/uso-de-java-generics/
+https://www.arquitecturajava.com/java-generics-uso-de-wildcard/
+
+
+/////////  Video Tutorials  ///////

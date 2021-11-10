@@ -1,6 +1,5 @@
 package com.amigoscode.mockdata;
 
-
 import com.amigoscode.beans.Car;
 import com.amigoscode.beans.Person;
 import com.google.common.io.Resources;
