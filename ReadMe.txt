@@ -14,3 +14,11 @@ $ java -cp target/java-demo-app-1.0-SNAPSHOT.jar netto.app.App
 $ java -cp target/java-demo-app-1.0-SNAPSHOT.jar netto.app.progfuncional.foreach.DemoForEach
 
 
+
+#######
++ Cliente Rest generico (Prueba con NodeJs localhost:3000)
+  + javax.ws.rs-api
+  + resteasy-client
++ Log4j2
+  + log4j-api
+  + log4j-core
