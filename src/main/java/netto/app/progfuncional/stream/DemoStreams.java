@@ -47,7 +47,8 @@ public class DemoStreams {
 		.findFirst().ifPresent(System.out::println);  // ax
 		
 		//Imprimiendo un rango de numeros
-		IntStream.range(1, 5).forEach( num -> System.out.print(num+" ") ); //System.out::println);
+		IntStream.range(1, 5)
+		.forEach( num -> System.out.print(num+" ") ); //System.out::println);
 		System.out.println();
 		
 		//realiza operaciones sobre un arreglo de enteros e imprime el promedio

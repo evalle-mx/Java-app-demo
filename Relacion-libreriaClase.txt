@@ -1,0 +1,47 @@
+
+
+<groupId>commons-io</groupId>
+
+- org.apache.commons.io.IOUtils;  [IOUtils.toString(InputStream, String)]
+
+# <groupId>com.google.code.gson</groupId>
+com.google.gson
+  -Gson;
+  -JsonArray/JsonObject
+  -
+  
+# <groupId>com.google.guava</groupId>
+com.google.common.
+- io.Resources;
+- reflect.TypeToken;
+
+
+# <groupId>org.apache.logging.log4j</groupId> [log4j-api, log4j-core]
+ - LogManager;
+ - Logger;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  <!--  REST/WebService -->
+		<dependency>
+		    <groupId>javax.ws.rs</groupId>
+		    <artifactId>javax.ws.rs-api</artifactId>
+		    <version>2.1.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>org.jboss.resteasy</groupId>
+		    <artifactId>resteasy-client</artifactId>
+		    <version>3.0.2.Final</version>
+		</dependency>

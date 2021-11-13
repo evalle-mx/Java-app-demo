@@ -24,8 +24,8 @@ public class ProcesaPersonas {
 		setLista();
 //		setListaRandom();
 		
-//		demoCollect();
-		reduceDemo();
+		demoCollect();
+//		reduceDemo();
 	}
 	
 	/**
