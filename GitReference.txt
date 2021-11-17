@@ -1,0 +1,8 @@
+#Git Detached HEAD Explanation
+https://careerkarma.com/blog/git-head-detached-at/
+
+#Agregar un proyecto existente a GitHub utilizando la línea de comando
+https://docs.github.com/es/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line
+
+#GitHub CLI
+https://github.com/cli/cli#installation
