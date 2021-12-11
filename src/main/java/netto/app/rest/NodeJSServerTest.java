@@ -15,14 +15,14 @@ import org.apache.logging.log4j.Logger;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-public class NodeServerTest {
+public class NodeJSServerTest {
 	
 	private static final String CONTENT_TYPE=";charset=UTF-8";
 	private static WebTarget target;
 	private static Gson gson;
 	private final static String RESOURCE = "http://127.0.0.1:3000";
 	
-	static final Logger log4j = LogManager.getLogger( NodeServerTest.class );	
+	static final Logger log4j = LogManager.getLogger( NodeJSServerTest.class );	
 	
 	public static void main(String[] args) {
 		try {

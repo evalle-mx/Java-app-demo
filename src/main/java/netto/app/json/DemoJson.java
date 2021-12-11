@@ -108,8 +108,8 @@ public class DemoJson {
 	
 	
 	/** 
-	 * Produce Un JSONArray a partir de un archivo plano, 
-	 * (Opcional: 1a linea es nombre atributo)
+	 * Produce Un JSONArray a partir de un archivo csv, 
+	 * (Opcional: Primera linea es nombre atributo)
 	 */
 	@SuppressWarnings("resource")
 	public static void createDynamicJSONArrayFromFile() {

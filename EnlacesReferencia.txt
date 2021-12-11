@@ -28,4 +28,8 @@ https://www.baeldung.com/java-org-json
 #Java Collections sort()
 https://howtodoinjava.com/java/sort/collections-sort/
 
+
+
+> create spring boot banner
+https://devops.datenkollektiv.de/banner.txt/index.html
 /////////  Video Tutorials  ///////
